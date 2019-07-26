@@ -17,14 +17,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 
         
-        let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        
-        let initialViewController = storyboard.instantiateViewController(withIdentifier: "TableViewController")
-        
-        self.window?.rootViewController = initialViewController
-        self.window?.makeKeyAndVisible()
-        
-        
         return true
     }
 
