@@ -1,6 +1,6 @@
 # StaticTableview
 Written with Swift 
 
-#آموزش را در ویرگول مطالعه کنید 
+# آموزش را در ویرگول مطالعه کنید 
 
-(لینک آموزش)[' http://vrgl.ir/rLtsl ']
+(لینک آموزش)[ http://vrgl.ir/rLtsl ]
